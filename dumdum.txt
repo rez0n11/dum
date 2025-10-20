@@ -1,0 +1,4 @@
+Here is a fake API key: AKIAIOSFODNN7EXAMPLE1234567890AB
+And a fake Telegram token: 12345678:abcdefghijklmnopqrstuvwxyzABCDE1234
+Just some harmless text here.
+Another line with a fake API key: ZYXWVUTSRQPONMLKJIHGFEDCBA12345678
